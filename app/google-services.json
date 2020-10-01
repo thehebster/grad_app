@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594005214207",
+    "firebase_url": "https://gradapp-40887.firebaseio.com",
+    "project_id": "gradapp-40887",
+    "storage_bucket": "gradapp-40887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594005214207:android:96dfa9f06d211aa751ddca",
+        "android_client_info": {
+          "package_name": "com.example.gradapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594005214207-023gf5l71koo93qve4aa70uf353ckpms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh9RzDy4VRapW7oKW-2wmd6f5OM5l1aIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594005214207-023gf5l71koo93qve4aa70uf353ckpms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
